@@ -2,7 +2,7 @@
 
 Welcome to the Handwritten Digit Recognition Web Application! This application allows you to draw a digit on a canvas, and it predicts the digit using a trained Convolutional Neural Network (CNN).
 
-![Web Application Screenshot](screenshots/app.png)
+![Web Application Screenshot](Screenshots/app.png)
 
 ## Features
 
@@ -29,7 +29,7 @@ To run the application locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
-Alternatively, you can access the live version of the application [here](#).
+Alternatively, you can access the live version of the application [here]([#](https://mnist-nodejs.onrender.com/)).
 
 ## Contributing
 
