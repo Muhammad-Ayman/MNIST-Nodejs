@@ -29,7 +29,7 @@ To run the application locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
-Alternatively, you can access the live version of the application [here]([#](https://mnist-nodejs.onrender.com/)).
+Alternatively, you can access the live version of the application [here](https://mnist-nodejs.onrender.com/).
 
 ## Contributing
 
